@@ -1,1 +1,1 @@
-# FT-OPENAI
+# OpenAI Telegram Bot
