@@ -23,4 +23,5 @@ To run the bot, follow these steps:
 
 • `MONGODB_NAME` - The name of the MongoDB database to use
 ## Deploying on Koyeb
+You can deploy this bot on Koyeb by clicking the button below:
 
