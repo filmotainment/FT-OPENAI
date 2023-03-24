@@ -87,4 +87,5 @@ def message_handler(client: Client, message: Message):
 os.environ['PORT'] = '8080'
 
 # Start the bot
-app.run()
+app.run(port=PORT)
+
