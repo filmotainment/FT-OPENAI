@@ -14,3 +14,4 @@ To run the bot, follow these steps:
 2. Install the required dependencies with `pip install -r requirements.txt`
 3. Set the environment variables in `.env`
 4. Run the bot with `python bot.py`
+## Environment Variables
