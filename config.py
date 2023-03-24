@@ -18,3 +18,6 @@ PYROGRAM_API_HASH = os.environ.get('PYROGRAM_API_HASH')
 
 # Pyrogram bot session name
 PYROGRAM_SESSION_NAME = os.environ.get('PYROGRAM_SESSION_NAME')
+
+PORT = int(os.environ.get('PORT', 8080))
+
