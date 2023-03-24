@@ -8,3 +8,5 @@ To use the bot, send a message to the bot and it will respond with a human-like 
 • `/help` - Get help
 
 • `/openai [prompt]` - Generate a response to the given prompt using OpenAI's GPT-3 API
+##Installation
+To run the bot, follow these steps:
