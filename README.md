@@ -24,4 +24,5 @@ To run the bot, follow these steps:
 • `MONGODB_NAME` - The name of the MongoDB database to use
 ## Deploying on Koyeb
 You can deploy this bot on Koyeb by clicking the button below:
+```bash [![Deploy on Koyeb](https://deploy.koyeb.com/button.svg)](https://deploy.koyeb.com/deploy?source=https://github.com/filmotainment/FT-OPENAI)```
 
