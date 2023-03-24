@@ -5,4 +5,4 @@ To use the bot, send a message to the bot and it will respond with a human-like 
 ## Commands
 • `/start` - Start the bot
 • `/help` - Get help
-• `/openai` [prompt] - Generate a response to the given prompt using OpenAI's GPT-3 API
+• `/openai [prompt]` - Generate a response to the given prompt using OpenAI's GPT-3 API
