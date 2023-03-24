@@ -22,4 +22,5 @@ To run the bot, follow these steps:
 • `MONGODB_URI` - The URI for your MongoDB database
 
 • `MONGODB_NAME` - The name of the MongoDB database to use
+## Deploying on Koyeb
 
