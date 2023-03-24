@@ -12,3 +12,5 @@ To use the bot, send a message to the bot and it will respond with a human-like 
 To run the bot, follow these steps:
 1. Clone this repository
 2. Install the required dependencies with `pip install -r requirements.txt`
+3. Set the environment variables in `.env`
+4. Run the bot with `python bot.py`
