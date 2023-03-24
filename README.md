@@ -27,3 +27,7 @@ You can deploy this bot on Koyeb by clicking the button below:
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?source=https://github.com/filmotainment/FT-OPENAI)
 ## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+## License
