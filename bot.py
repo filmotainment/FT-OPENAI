@@ -83,5 +83,8 @@ def message_handler(client: Client, message: Message):
     message.reply_text(generated_text)
 
 
+# Set the environment variable for the port number
+os.environ['PORT'] = '8080'
+
 # Start the bot
 app.run()
