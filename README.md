@@ -25,5 +25,5 @@ To run the bot, follow these steps:
 ## Deploying on Koyeb
 You can deploy this bot on Koyeb by clicking the button below:
 
-[![Deploy on Koyeb](https://deploy.koyeb.com/button.svg)](https://deploy.koyeb.com/deploy?source=https://github.com/filmotainment/FT-OPENAI)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?source=https://github.com/filmotainment/FT-OPENAI)
 
