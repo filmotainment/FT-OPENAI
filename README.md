@@ -15,3 +15,8 @@ To run the bot, follow these steps:
 3. Set the environment variables in `.env`
 4. Run the bot with `python bot.py`
 ## Environment Variables
+• `TELEGRAM_BOT_TOKEN` - The API token for your Telegram bot
+• `OPENAI_API_KEY` - Your OpenAI API key
+• `MONGODB_URI` - The URI for your MongoDB database
+• `MONGODB_NAME` - The name of the MongoDB database to use
+
