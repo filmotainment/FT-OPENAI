@@ -1,0 +1,5 @@
+python-telegram-bot==13.7
+openai==0.10.2
+pymongo==4.0.1
+dnspython==2.1.0
+koyeb-sdk==0.1.6
